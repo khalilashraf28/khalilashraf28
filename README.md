@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Khalil Ashraf</h1>
-<h3 align="center">A passionate Computer Engineer from Pakistan</h3>
+<h2 align="center">Computer Engineer 2025 🎓 </h2>
+<h3 align="center">AI | ML | Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalilashraf28&label=Profile%20views&color=0e75b6&style=flat" alt="khalilashraf28" /> </p>
 
