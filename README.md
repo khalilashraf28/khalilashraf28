@@ -28,14 +28,14 @@
   <a href="https://linkedin.com/in/muhammad-khalil-ashraf" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://kaggle.com/muhammadkhalilashraf" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
   <a href="https://fb.com/muhammad.khalil.ashraf" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://instagram.com/m.khalil_ashraf" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://kaggle.com/muhammadkhalilashraf" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
 
@@ -88,9 +88,9 @@
 ---
 
 ### 🔥 Recent Projects
-- **XTI WhatsApp Assistant**: Intelligent chatbot for company support.
 - **Boxes Goal Automation**: Streamlit application for goal tracking and automation.
-- **Smart Irrigation System**: IoT-based project for efficient water usage in agriculture.
+- **SparkBiz**: Website development for SparkBiz and order service easily.
+- **Driver Drowsiness Detection System**: AI model Development to detec Driver Drowsiness.
   
 ---  
 
