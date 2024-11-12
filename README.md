@@ -78,5 +78,3 @@ Here’s an enhanced, more engaging, and powerful version of your GitHub profile
 Always expanding my knowledge of **AI, data science, and automation** to solve meaningful problems. Every day is an opportunity to learn something new and impactful.
 
 ---
-
-Feel free to customize or add more details to make it perfectly tailored to your personality and experiences!
