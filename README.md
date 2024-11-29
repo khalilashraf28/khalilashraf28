@@ -4,7 +4,6 @@ Here’s an enhanced, more engaging, and powerful version of your GitHub profile
 
 <h1 align="center">Hi 👋, I'm Muhammad Khalil Ashraf</h1>
 <h2 align="center">🚀 Computer Engineering Graduate (2025)</h2>
-<h3 align="center">AI Enthusiast | Machine Learning | Data Science | Software Engineering</h3>
 <div align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Python+%7C+AI+%7C+ML+%7C+Data+Scientist" alt="Typing SVG" />
 </div><be>
