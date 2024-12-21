@@ -1,7 +1,3 @@
-Here’s an enhanced, more engaging, and powerful version of your GitHub profile content:
-
----
-
 <h1 align="center">Hi 👋, I'm Muhammad Khalil Ashraf</h1>
 <h2 align="center">🚀 Computer Engineering Graduate (2025)</h2>
 <div align='center'>
