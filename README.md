@@ -69,6 +69,8 @@ Here’s an enhanced, more engaging, and powerful version of your GitHub profile
 ---
 
 ### 🔥 Projects
+- **Robust Support and Solution Attendance Dashboard**: Created a dynamic dashboard in Streamlit for Robust Support and Solution.
+- **XTI Commission Dashboard**: Created a dynamic dashboard in Streamlit for XTI Employee's Commission.
 - **Boxes Goal Automation**: Created a dynamic dashboard in Streamlit for tracking goals and automating processes.
 - **SparkBiz**: Developed a website to simplify order and service management.
 - **Driver Drowsiness Detection**: Built an AI model to detect driver fatigue and alert in real-time.
