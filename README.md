@@ -52,7 +52,7 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="40" height="40"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/></a>
 <a href="https://www.chartjs.org/" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a>
-<a href="https://www.canva.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Canva_logo.png" alt="Canva" width="40" height="40"/></a>
+
 </p>
 
 ---
