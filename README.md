@@ -78,7 +78,6 @@
 - **Boxes Goal Automation**: Created a dynamic dashboard in Streamlit for tracking goals and automating processes.
 - **SparkBiz**: Developed a website to simplify order and service management.
 - **Driver Drowsiness Detection**: Built an AI model to detect driver fatigue and alert in real-time.
-
 ---
 
 ### 🌱 Continuous Learning
